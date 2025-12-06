@@ -4,7 +4,6 @@ A comprehensive web scraping tool specifically designed to aggregate security da
 
 ## Features
 
-- **Unlimited Storage**: No size restriction (unlimited storage, limited only by available disk space)
 - **Security Data Sources**: Pre-configured to scrape major security data sources:
   - **Exploit-DB**: https://www.exploit-db.com (exploits, shellcodes, papers)
   - **PayloadsAllTheThings**: https://github.com/swisskyrepo/PayloadsAllTheThings (security payloads)
@@ -14,12 +13,6 @@ A comprehensive web scraping tool specifically designed to aggregate security da
   - **NVD**: https://nvd.nist.gov (National Vulnerability Database)
   - **HackerOne**: https://hackerone.com/hacktivity (security vulnerability reports)
   - **MITRE ATT&CK**: https://attack.mitre.org (framework techniques and tactics)
-- **Security Blog Scraping**: Pre-configured to scrape major security research blogs:
-  - **PortSwigger Research**: https://portswigger.net/research
-  - **Project Discovery**: https://blog.projectdiscovery.io
-  - **Orange Tsai**: https://blog.orange.tw
-  - **MDSec**: https://www.mdsec.co.uk/blog
-  - **Google Project Zero**: https://googleprojectzero.blogspot.com
 - **Multiple Authentication Methods**: Form-based, session-based, token-based, and cookie-based authentication
 - **Dynamic Content Scraping**: Supports JavaScript-rendered content using Selenium
 - **Data Export**: Automatically exports scraped data to JSON, CSV, and TXT formats
